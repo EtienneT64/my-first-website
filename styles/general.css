@@ -1,6 +1,6 @@
 body {
 	font-family: 'Roboto', sans-serif;
-	border: solid 4px lightgrey;
+	/* border: solid 4px lightgrey; */
 }
 
 h1 {
@@ -18,7 +18,7 @@ p {
 	font-weight: 400;
 }
 
-.main {
+.main-home {
 	display: flex;
 	flex-direction: column;
 	flex-wrap: wrap;

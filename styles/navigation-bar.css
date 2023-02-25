@@ -1,6 +1,7 @@
 .navigation-bar {
 	display: flex;
 	justify-content: space-between;
+	align-items: center;
 	margin-top: 1%;
 	margin-right: 5%;
 	margin-bottom: 1%;
@@ -12,5 +13,6 @@
 .navigation-bar__information,
 .navigation-bar__images {
 	text-decoration: none;
-	color:
+	color: #6b654b;
+	font-size: larger;
 }

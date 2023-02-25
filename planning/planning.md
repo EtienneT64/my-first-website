@@ -8,6 +8,8 @@
 
 <!-- Draw layout of each page. -->
 
+<!-- Describe website contents -->
+
 <!-- Mark each item on the page with the appropriate HTML tags. -->
 
 Select 2 fonts, 1 for text and 1 for headers.

@@ -1,12 +1,13 @@
 # Phase 0: Setup
 
-Create public GitHub repository.
-Add README.
-Create planning.md file.
+<!-- Create public GitHub repository. -->
+<!-- Add README. -->
+<!-- Create planning.md file. -->
 
 # Phase 1: Planning
 
-Draw layout of each page.
+<!-- Draw layout of each page. -->
+
 Mark each item on the page with the appropriate HTML tags.
 
 Select 2 fonts, 1 for text and 1 for headers.

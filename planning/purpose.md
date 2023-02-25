@@ -12,6 +12,20 @@ Create an image grid with implicit links to the source information.
 Educate the user about service dogs by providing useful information
 with useful images sorted in a pleasant manner.
 
+# Fonts
+
+Headers: Roboto Bold 700
+
+Text: Roboto Regular 400
+
+# Color Palate
+
+https://coolors.co/0a090c-f0edee-456990-b07c9e-6b654b
+
+# Classes
+
+
+
 # Page 1
 
 Name: Home

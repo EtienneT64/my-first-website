@@ -12,6 +12,8 @@
 
 <!-- Mark each item on the page with the appropriate HTML tags. -->
 
+Describe website theme
+
 Select 2 fonts, 1 for text and 1 for headers.
 Pick color palette and write down the hex codes. (Can use website color palette generator)
 

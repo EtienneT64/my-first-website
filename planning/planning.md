@@ -8,7 +8,7 @@
 
 <!-- Draw layout of each page. -->
 
-Mark each item on the page with the appropriate HTML tags.
+<!-- Mark each item on the page with the appropriate HTML tags. -->
 
 Select 2 fonts, 1 for text and 1 for headers.
 Pick color palette and write down the hex codes. (Can use website color palette generator)

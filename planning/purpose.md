@@ -30,9 +30,9 @@ Night: #0A090C
 
 Anti-flash white: #F0EDEE
 
-Lapis Lazuli: 456990
+Lapis Lazuli: #456990
 
-Mountbatten pink: B07C9E
+Mountbatten pink: #B07C9E
 
 Ebony: 6B654B
 

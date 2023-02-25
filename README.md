@@ -4,6 +4,8 @@ Dogs!
 
 # Requirements
 
+Each page must be appropriately and pleasantly styled using CSS.
+
 # Page 1
 
 Navigation Bar linking to all 4 pages
@@ -36,4 +38,3 @@ Navigation Bar linking to all 4 pages
 6 images displayed 3 wide and 2 down
 A label for each image
 Clicking on the image opens the source of that image in a new window
-Each page must be appropriately and pleasantly styled using CSS.

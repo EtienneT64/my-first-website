@@ -14,8 +14,8 @@
 
 Describe website theme
 
-Select 2 fonts, 1 for text and 1 for headers.
-Pick color palette and write down the hex codes. (Can use website color palette generator)
+<!-- Select 2 fonts, 1 for text and 1 for headers. -->
+<!-- Pick color palette and write down the hex codes. (Can use website color palette generator) -->
 
 Organize graphical elements into classes and allocate each class to the respective HTML elements.
 

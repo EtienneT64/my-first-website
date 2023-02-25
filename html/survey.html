@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en-US">
+	<head>
+		<meta charset="utf-8" />
+		<title>Survey</title>
+	</head>
+	<body>
+		<div class="navigation-bar">
+			<a
+				class="navigation-bar__home"
+				href="index.html"
+				>Home</a
+			>
+			<a
+				class="navigation-bar__survey"
+				href="survey.html"
+				>Favorite Breed</a
+			>
+			<a
+				class="navigation-bar__information"
+				href="information.html"
+				>Information</a
+			>
+			<a
+				class="navigation-bar__images"
+				href="images.html"
+				>Images</a
+			>
+		</div>
+
+		<form
+			class="survey-form"
+			method="get"
+		>
+			<fieldset class="survey-fieldset">
+				<legend>Favorite Dog Breed</legend>
+
+				<div class="survey-fieldset__div1">
+					<label for="favorite-breed">Favorite dog breed:</label>
+					<input
+						type="text"
+						id="favorite-breed"
+						name="favorite-breed"
+					/>
+				</div>
+
+				<div class="survey-fieldset__div2">
+					<label for="reason">Reason:</label>
+					<input
+						type="text"
+						id="reason"
+						name="reason"
+					/>
+				</div>
+
+				<div class="survey-fieldset__div3">
+					<label for="breed-owned"
+						>Are you an owner of your favorite dog breed?</label
+					>
+					<input
+						type="checkbox"
+						id="breed-owned"
+						name="breed-owned"
+					/>
+				</div>
+
+				<div class="survey-fieldset__div4">
+					<label for="additional-comments"></label>
+					<textarea
+						id="additional-comments"
+						name="additional-comments"
+					></textarea>
+				</div>
+
+				<button
+					class="survey-button"
+					type="reset"
+				></button>
+			</fieldset>
+		</form>
+	</body>
+</html>

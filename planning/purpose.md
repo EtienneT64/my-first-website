@@ -14,7 +14,9 @@ with useful images sorted in a pleasant manner.
 
 # Fonts
 
-Headers: Roboto Bold 700
+Headers (H1): Roboto Bold 700
+
+Headers (H2): Roboto Medium 500
 
 Text: Roboto Regular 400
 

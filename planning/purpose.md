@@ -85,5 +85,5 @@ Name: Images
 
 H1: Service dogs
 
-Image grid: 6 images of service dogs in their respective
+Image grid with labels: 6 images of service dogs in their respective
 career fields with links to the career example site.

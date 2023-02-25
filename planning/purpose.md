@@ -22,9 +22,19 @@ Text: Roboto Regular 400
 
 https://coolors.co/0a090c-f0edee-456990-b07c9e-6b654b
 
+Hex codes:
+
+Night: #0A090C
+
+Anti-flash white: #F0EDEE
+
+Lapis Lazuli: 456990
+
+Mountbatten pink: B07C9E
+
+Ebony: 6B654B
+
 # Classes
-
-
 
 # Page 1
 

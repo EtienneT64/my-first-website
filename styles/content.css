@@ -53,6 +53,10 @@
 }
 
 .survey-button {
+	font-family: 'Roboto', sans-serif;
+
+	font-size: medium;
+
 	background-color: whitesmoke;
 
 	border: solid 1px #456990;
@@ -63,4 +67,23 @@
 	padding-right: 10%;
 	padding-bottom: 5%;
 	padding-left: 10%;
+}
+
+.main-information {
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+
+	padding-right: 2%;
+	padding-left: 2%;
+}
+
+.information-links__a {
+	font-size: larger;
+	text-decoration: none;
+	color: cornflowerblue;
+}
+
+.information-links__ul > li {
+	padding: 1%;
 }

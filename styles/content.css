@@ -87,3 +87,31 @@
 .information-links__ul > li {
 	padding: 1%;
 }
+
+.image-grid {
+	display: grid;
+	grid-template: 1fr 1fr / 1fr 1fr 1fr;
+}
+
+.image-grid__div {
+	padding: 5%;
+}
+
+.image-grid__div > label {
+	display: block;
+	font-size: large;
+	font-weight: 500;
+
+	margin-bottom: 5%;
+}
+
+.image-grid__div > a {
+	display: inline-block;
+}
+
+.image-grid__div > a > img {
+	display: block;
+
+	max-width: 100%;
+	height: auto;
+}

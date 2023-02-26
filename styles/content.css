@@ -18,3 +18,49 @@
 .information-banner__p {
 	max-width: 90%;
 }
+
+.survey-form {
+	display: flex;
+	justify-content: center;
+	padding: 10%;
+	font-size: larger;
+}
+
+.survey-fieldset {
+	border: solid 1px #456990;
+	padding-right: 10%;
+	padding-left: 10%;
+}
+
+.survey-fieldset > div > label {
+	display: block;
+	margin-top: 5%;
+	margin-bottom: 5%;
+}
+
+.survey-fieldset > div > input {
+	width: auto;
+	height: auto;
+
+	border: solid 1px #456990;
+}
+
+.survey-fieldset > div > textarea {
+	width: auto;
+	height: auto;
+
+	border: solid 1px #456990;
+}
+
+.survey-button {
+	background-color: whitesmoke;
+
+	border: solid 1px #456990;
+
+	margin-top: 10%;
+
+	padding-top: 5%;
+	padding-right: 10%;
+	padding-bottom: 5%;
+	padding-left: 10%;
+}

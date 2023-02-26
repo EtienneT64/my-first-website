@@ -34,7 +34,7 @@ Lapis Lazuli: #456990
 
 Mountbatten pink: #B07C9E
 
-Ebony: 6B654B
+Ebony: #6B654B
 
 # Classes
 

@@ -48,12 +48,16 @@
 	width: auto;
 	height: auto;
 
+	font-size: large;
+
 	border: solid 1px #456990;
 }
 
 .survey-fieldset > div > textarea {
 	width: auto;
 	height: auto;
+
+	font-size: large;
 
 	border: solid 1px #456990;
 }

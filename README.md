@@ -1,5 +1,10 @@
 # my-first-website
 
+This website was created by EtienneT64 without any tutorial or external help.
+The requirements stipulated below were the only guidelines that were followed.
+
+# Link
+
 https://service-dogs.netlify.app/
 
 # Requirements
